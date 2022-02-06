@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.073c9b0a.css",
-    "main.js": "./static/js/main.c4204519.js",
-    "static/js/787.003a8dc8.chunk.js": "./static/js/787.003a8dc8.chunk.js",
-    "index.html": "./index.html",
-    "static/media/gasandoil-vietnam-sample.mov": "./static/media/gasandoil-vietnam-sample.9b898462dd72dab7d69d.mov",
-    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
-    "main.c4204519.js.map": "./static/js/main.c4204519.js.map",
-    "787.003a8dc8.chunk.js.map": "./static/js/787.003a8dc8.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.6ef2ad36.js",
+    "static/js/787.003a8dc8.chunk.js": "/static/js/787.003a8dc8.chunk.js",
+    "index.html": "/index.html",
+    "static/media/gasandoil-vietnam-sample.mov": "/static/media/gasandoil-vietnam-sample.9b898462dd72dab7d69d.mov",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.6ef2ad36.js.map": "/static/js/main.6ef2ad36.js.map",
+    "787.003a8dc8.chunk.js.map": "/static/js/787.003a8dc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c4204519.js"
+    "static/js/main.6ef2ad36.js"
   ]
 }
